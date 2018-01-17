@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\programming\my projects\visual studio\visual studio c++\learning\minimize_dfa\minimize_dfa\main.cpp(261): warning C4018: '<': signed/unsigned mismatch
+e:\programming\my projects\visual studio\visual studio c++\learning\minimize_dfa\minimize_dfa\main.cpp(262): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Minimize_DFA.vcxproj -> E:\Programming\my projects\Visual Studio\visual studio C++\learning\Minimize_DFA\Debug\Minimize_DFA.exe
+  Minimize_DFA.vcxproj -> E:\Programming\my projects\Visual Studio\visual studio C++\learning\Minimize_DFA\Debug\Minimize_DFA.pdb (Partial PDB)
